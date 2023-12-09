@@ -1,0 +1,224 @@
+{
+	"NGClass":
+[
+      {
+            "CateName": "BABY NAMES",
+            "femaleNameList": [
+                              "Emma", "Elizabeth", "Olivia", "Grace", "Ava", "Isabella",
+            "Sophia", "Mia", "Charlotte", "Amelia", "Harper", "Evelyn",
+            "Abigail", "Emily", "Mary", "Sofia", "Ella", "Madison",
+            "Scarlett", "Kim", "Anna", "Emma", "Hailey", "Sarah",
+            "Luna", "Layla", "Jun", "Maya", "Leilani", "Zola",
+            "Natalia", "Shakira", "Arionna", "Ruby", "Emma", "Naomi"
+            ],
+            "maleNameList": [
+                             "Liam", "James", "Noah", "Thomas", "John", "William",
+            "Anthony", "Thomas", "Kai", "Robert", "Han", "David",
+            "Jose", "Alexander", "Adrian", "Michael", "Rafael", "John",
+            "Luis", "Benjamin", "Amari", "Avery", "Malik", "Lucas",
+            "Omari", "Ethan", "Noah", "Christopher", "Jack", "Eddy",
+            "Von", "Frank", "Lee", "Giovanni", "Ian", "Paul"
+            ],
+            "femaleListLength": [
+                               0, 1, 2, 3, 4, 5,
+              6, 7, 8, 9, 10, 11,
+              12, 13, 14, 15, 16, 17,
+              18, 19, 20, 21, 22, 23,
+              24, 25, 26, 27, 28, 29,
+              30, 31, 32, 33, 34, 35,
+              36
+            ],
+            "maleListLength": [
+                                 0, 1, 2, 3, 4, 5,
+                6, 7, 8, 9, 10, 11,
+                12, 13, 14, 15, 16, 17,
+                18, 19, 20, 21, 22, 23,
+                24, 25, 26, 27, 28, 29,
+                30, 31, 32, 33, 34, 35,
+                36
+            ]
+      },
+      {
+            "CateName": "GAMER-TAGS",
+            "femaleNameList": [
+                 "Princess", "maiden", "Money", "Lover", "Lovely", "Slayer", "Kingdom", "Brave",
+"Heart", "Controlling", "knockout", "Beauty", "Bad", "Energy", "Witch", "Witchcraft",
+"champions", "Love", "kind", "generous", "honest", "patient", "Confident", "Angry",
+"Queen", "Aid", "Healer", "powerful", "Touch", "magic", "Sparkle", "fearless",
+"Kitty", "adventurous", "Cat", "Little"
+            ],
+            "maleNameList": [
+                  "Ninja", "Sword", "Rogue", "Misson", "Slave", "Advanced", "Sharingan", "combo",
+"Drunk", "Drunken", "powerful", "Man", "Boy", "Ace", "Fearless", "rage",
+"Champion", "fighter", "Mad", "Challenger", "Eater", "Villain", "Noble", "savage",
+"Guns", "Wolf", "Sniper", "Rider", "Pro", "King", "Shadow", "Rich",
+"Undead", "Warrior", "Leader", "Speed"
+            ],
+            "femaleListLength": [
+                 0, 1, 2, 3, 4, 5,
+              6, 7, 8, 9, 10, 11,
+              12, 13, 14, 15, 16, 17,
+              18, 19, 20, 21, 22, 23,
+              24, 25, 26, 27, 28, 29,
+              30, 31, 32, 33, 34, 35,
+              36
+            ],
+            "maleListLength": [
+                 0, 1, 2, 3, 4, 5,
+            6, 7, 8, 9, 10, 11,
+            12, 13, 14, 15, 16, 17,
+            18, 19, 20, 21, 22, 23,
+            24, 25, 26, 27, 28, 29,
+            30, 31, 32, 33, 34, 35,
+            36
+            ]
+      },
+      {
+            "CateName": "SOCIAL HANDLES",
+            "femaleNameList": [
+                             "River", "Skye", "Autumn", "Dancer", "Luna", "Moon", "Ocean", "Rain",
+            "Lover", "Breeze", "Loved", "wealthy", "privileged", "influential", "Lady", "prestigious",
+            "successful", "Women", "high", "Highly", "prosperous", "respected", "distinguished", "Famous",
+            "popular", "Coffee", "Macha", "Money", "Wanted", "Foxy", "Purple", "Kitty",
+            "Super", "Cash", "Clean", "Viewer"
+            ],
+            "maleNameList": [
+                             "black", "Golden", "gold", "Cash", "Treasure", "Cedar", "Wood", "Classy",
+            "elitist", "Legend", "Note", "society", "Worthy", "Dancer", "Rider", "Writer",
+            "Painter", "Worker", "Reader", "Sporty", "Liquid", "Photographer", "Biker", "Bass",
+            "Restricted", "Vocal", "Traveler", "Gamer", "Seller", "Music", "Fly", "Build",
+            "Builder", "Hacker", "Coder", "Handy"
+            ],
+            "femaleListLength": [
+                0, 1, 2, 3, 4, 5,
+            6, 7, 8, 9, 10, 11,
+            12, 13, 14, 15, 16, 17,
+            18, 19, 20, 21, 22, 23,
+            24, 25, 26, 27, 28, 29,
+            30, 31, 32, 33, 34, 35,
+            36
+            ],
+            "maleListLength": [
+                0, 1, 2, 3, 4, 5,
+            6, 7, 8, 9, 10, 11,
+            12, 13, 14, 15, 16, 17,
+            18, 19, 20, 21, 22, 23,
+            24, 25, 26, 27, 28, 29,
+            30, 31, 32, 33, 34, 35,
+            36
+            ]
+      },
+      {
+            "CateName": "EMAIL ADDRESSES",
+            "femaleNameList": [
+                            "Elegant", "Sophisticated", "New", "Gamer", "Cash", "Cat", "Gaming", "Music",
+          "Gentle", "Sweet", "Lover", "Majestic", "Prestige", "Debonair", "Cool", "Kitty",
+          "Web", "Designer", "Party", "Geek", "Fashion", "Dancer", "Agent", "Artist",
+          "Bookworm", "Money", "Gems", "Knowledgeable", "Smart", "Super", "Cooker", "Cyber",
+          "Class", "Classy", "Ceo", "Writer"
+
+            ],
+            "maleNameList": [
+                             "Owner", "bot", "Ceo", "Profit", "Boss", "Maker", "Creator", "Future",
+            "World", "Fast", "Racer", "Sleeper", "Geek", "Money", "Producer", "Agent",
+            "American", "African", "Smart", "Investor", "Protection", "Cyber", "Coder", "Cash",
+            "Lead", "Artist", "Actor", "Athlete", "Genius", "Sportsman", "Creative", "Technique",
+            "Member", "Day", "Savant", "King"
+
+            ],
+            "femaleListLength": [
+                  0, 1, 2, 3, 4, 5,
+            6, 7, 8, 9, 10, 11,
+            12, 13, 14, 15, 16, 17,
+            18, 19, 20, 21, 22, 23,
+            24, 25, 26, 27, 28, 29,
+            30, 31, 32, 33, 34, 35,
+            36
+            ],
+            "maleListLength": [
+                 0, 1, 2, 3, 4, 5,
+            6, 7, 8, 9, 10, 11,
+            12, 13, 14, 15, 16, 17,
+            18, 19, 20, 21, 22, 23,
+            24, 25, 26, 27, 28, 29,
+            30, 31, 32, 33, 34, 35,
+            36
+                  
+            ]
+      },
+      {
+            "CateName": "PET NAMES",
+            "femaleNameList": [
+                               "Lucy", "Daisy", "Sadie", "Molly", "Lola", "Sunny", "Sweety", "Missy",
+              "Minnie", "Rose", "Riley", "Lucy", "Queen", "Princess", "Autumn", "Chloe",
+              "Ruby", "Zoe", "Dixie", "Mia", "Stella", "Mimi", "Nala", "Rosie",
+              "Penny", "Coco", "An", "Bella", "Lulu", "Harley", "Maddie", "Zae",
+              "Sky", "Honey", "Jun", "Mochi"
+
+            ],
+            "maleNameList": [
+                              "Storm", "Cooper", "Blitz", "Fury", "Berserker", "Fang", "Tucker", "Fluffy",
+            "Biscuit", "Rover", "Bub", "Teddy", "Ted", "sir", "Jr", "Zeus",
+            "Blaze", "Toby", "Mac", "Charlie", "Rusty", "Leo", "Jun", "Jack",
+            "Rocky", "Vader", "King", "Max", "Bear", "Simba", "Yota", "Milo",
+            "Major", "Shadow", "Bones", "Lobo"
+
+            ],
+            "femaleListLength": [
+                 0, 1, 2, 3, 4, 5,
+            6, 7, 8, 9, 10, 11,
+            12, 13, 14, 15, 16, 17,
+            18, 19, 20, 21, 22, 23,
+            24, 25, 26, 27, 28, 29,
+            30, 31, 32, 33, 34, 35,
+            36
+            ],
+            "maleListLength": [
+                0, 1, 2, 3, 4, 5,
+            6, 7, 8, 9, 10, 11,
+            12, 13, 14, 15, 16, 17,
+            18, 19, 20, 21, 22, 23,
+            24, 25, 26, 27, 28, 29,
+            30, 31, 32, 33, 34, 35,
+            36
+            ]
+      },
+      {
+            "CateName": "FUNNY NAMES",
+            "femaleNameList": [
+                              "Fluffy", "Miss", "Jumbo", "Stinky", "Troll", "Crying", "Lips", "Trickster",
+            "Sissy", "Hag", "Weak", "Ghetto", "Poor", "Potty", "Shame", "barf",
+            "Pinky", "Cake", "Fat", "Fatty", "gobbled", "Pooper", "Greedy", "Nose",
+            "Greedy", "whip", "Foxy", "Snort", "Lolly", "Fiddle", "Piggy", "Pill",
+            "wonky", "gargle", "Wack", "Bum"
+
+            ],
+            "maleNameList": [
+                              "Mr.", "Gag", "shenanigans", "Small", "Weak", "Giggle", "Trouble", "Stick",
+            "Twig", "Eater", "Feeder", "Bum", "Loser", "Failure", "Gangsta", "Mouth",
+            "Stinky", "Bag", "Munch", "Biceps", "Short", "Tiny", "Hater", "Broken",
+            "Down", "Monster", "Cutter", "Emo", "Bones", "Lips", "Sniffer", "Farts",
+            "Gazer", "Gas", "Junk", "Trash"
+
+            ],
+            "femaleListLength": [
+                 0, 1, 2, 3, 4, 5,
+              6, 7, 8, 9, 10, 11,
+              12, 13, 14, 15, 16, 17,
+              18, 19, 20, 21, 22, 23,
+              24, 25, 26, 27, 28, 29,
+              30, 31, 32, 33, 34, 35,
+              36
+            ],
+            "maleListLength": [
+                 0, 1, 2, 3, 4, 5,
+            6, 7, 8, 9, 10, 11,
+            12, 13, 14, 15, 16, 17,
+            18, 19, 20, 21, 22, 23,
+            24, 25, 26, 27, 28, 29,
+            30, 31, 32, 33, 34, 35,
+            36
+            ]
+      } 
+],
+}

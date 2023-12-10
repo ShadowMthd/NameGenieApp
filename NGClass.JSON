@@ -41,19 +41,19 @@
       {
             "CateName": "GAMER-TAGS",
             "femaleNameList": [
-                 "Princess", "maiden", "Money", "Lover", "Lovely", "Slayer", "Kingdom", "Brave",
-"Heart", "Controlling", "knockout", "Beauty", "Bad", "Energy", "Witch", "Witchcraft",
-"champions", "Love", "kind", "generous", "honest", "patient", "Confident", "Angry",
-"Queen", "Aid", "Healer", "powerful", "Touch", "magic", "Sparkle", "fearless",
-"Kitty", "adventurous", "Cat", "Little"
-            ],
+		                 "Princess", "maiden", "Money", "Lover", "Lovely", "Slayer", "Kingdom", "Brave",
+				"Heart", "Controlling", "knockout", "Beauty", "Bad", "Energy", "Witch", "Witchcraft",
+				"champions", "Love", "kind", "generous", "honest", "patient", "Confident", "Angry",
+				"Queen", "Aid", "Healer", "powerful", "Touch", "magic", "Sparkle", "fearless",
+				"Kitty", "adventurous", "Cat", "Little"
+		            ],
             "maleNameList": [
-                  "Ninja", "Sword", "Rogue", "Misson", "Slave", "Advanced", "Sharingan", "combo",
-"Drunk", "Drunken", "powerful", "Man", "Boy", "Ace", "Fearless", "rage",
-"Champion", "fighter", "Mad", "Challenger", "Eater", "Villain", "Noble", "savage",
-"Guns", "Wolf", "Sniper", "Rider", "Pro", "King", "Shadow", "Rich",
-"Undead", "Warrior", "Leader", "Speed"
-            ],
+	                  "Ninja", "Sword", "Rogue", "Misson", "Slave", "Advanced", "Sharingan", "combo",
+			"Drunk", "Drunken", "powerful", "Man", "Boy", "Ace", "Fearless", "rage",
+			"Champion", "fighter", "Mad", "Challenger", "Eater", "Villain", "Noble", "savage",
+			"Guns", "Wolf", "Sniper", "Rider", "Pro", "King", "Shadow", "Rich",
+			"Undead", "Warrior", "Leader", "Speed"
+		            ],
             "femaleListLength": [
                  0, 1, 2, 3, 4, 5,
               6, 7, 8, 9, 10, 11,

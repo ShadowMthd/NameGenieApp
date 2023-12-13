@@ -2,33 +2,53 @@
 	"NameCateData": [
 		{
 			"cateName": "BABY NAMES",
-			"femaleNameList": "Emma, Elizabeth, Olivia, Grace, Ava, Isabella, Sophia, Mia, Charlotte, Amelia, Harper, Evelyn, Abigail, Emily, Mary, Sofia, Ella, Madison, Scarlett, Kim, Anna, Emma, Hailey, Sarah, Luna, Layla, Jun, Maya, Leilani, Zola, Natalia, Shakira, Arionna, Ruby, Emma, Naomi",
-			"maleNameList": "Liam, James, Noah, Thomas, John, William, Anthony, Thomas, Kai, Robert, Han, David, Jose, Alexander, Adrian, Michael, Rafael, John, Luis, Benjamin, Amari, Avery, Malik, Lucas, Omari, Ethan, Noah, Christopher, Jack, Eddy, Von, Frank, Lee, Giovanni, Ian, Paul"
+			"femaleNameList": "Emma, Elizabeth, Olivia, Grace, Ava, Isabella, Sophia, Mia, Charlotte, Amelia, Harper, Evelyn, Abigail, Emily, Mary, Sophia, Ella, Madison, Scarlett, Kim, Anna, Erin, Hailey, Sarah, Luna, Layla, Jun, Maya, Leilani, Zola, Natalia, Shakira, Arionna, Ruby, Emma, Naomi",
+			"femaleNameList2": "Grace,Rose,Marie,Faith,Jade,Kate,Anne,Sophia,Paige,Jean,Bell,Joy,Dawn,Daisy,Diane,Eden,Everly,Faith,Faye,Gemma,Harper,Haven,Iris,Lily,London,Mae,Maeve,McKenzie,Nicole,Noelle,Odessa,Octavia,Paige,Piper,Rylee",
+			"maleNameList": "Liam, James, Noah, Thomas, John, William, Anthony, Thomas, Kurt, Robert, Han, David, Jose, Alexander, Adrian, Michael, Rafael, John, Luis, Benjamin, Amari, Avery, Malik, Ryan, Omari, Ethan, Noah, Christopher, Jack, Eddy, Von, Frank, Jordan, Giovanni, Ian, Paul",
+			"maleNameList2": "Adam,Aidan,Aaron,Anthony,Arthur,Baxter,Cole,Cooper,Dean,Enrique,Elton,Ellis,Finley,Francis,Fernando,Lucas,Glenn,Graham,Griffin,Van,Valentine,Leo,Lyle,Levi,Omari,Oliver,Scott,Reed,Pierce,Norman,Myles,Miles,Marcus,Kai,Lee,Wade",
+
 		},
 		{
 			"cateName": "GAMER-TAGS",
-			"femaleNameList": "Princess, maiden, Money, Pink, Loving, Slayer, Kingdom, Brave, Heart, Controlling, knockout, Beauty, Bad, Energy, Witch, Witchcraft, champions, Love, kind, generous, honest, patient, Confident, Angry, Queen, Aid, Healer, powerful, Touch, magic, Sparkle, fearless, Kitty, adventurous, Cat, Little",
-			"maleNameList": "Ninja, Sword, Rogue, Misson, Slave, Advanced, Sharingan, combo, Drunk, Drunken, powerful, Man, Boy, Ace, Fearless, rage, Champion, fighter, Mad, Challenger, Eater, Villain, Noble, savage, Guns, Wolf, Sniper, Rider, Pro, King, Shadow, Rich, Undead, Warrior, Leader, Speed"
+			"femaleNameList": "Princess, maiden, Miss, Pink, Love, Appealing , Kingdom, Brave, Heart, Controlling, knockout, Beautiful, Bad, Zen, Wicked, Witchcraft, champions, Dora, Kindest, generous, honest, patient, Confident, Angry, Queen, Stylish, Healer, powerful, Touch, magical, Sparkle, fearless, Kitty, adventurous, Silent, Little",
+			"femaleNameList2": "Apple,Peach,Money,Slayer,Tap,Trickster,Unhinged,hunter,Stopper,Link,Spell,Weapon,Energy,Wave,Witch,Obsession,Ally,Hater,Killer,Helper,Thief,Stalker,Heroine,Kitty,Dread,Aid,Unknown,Lipstick,Nothing,Fairy,Gear,Fashion,Temptation,Smart,Traveler,Shenanigans,Threat",
+			"maleNameList": "Ninja, Sword, Rogue, Mission, Gamer, Advanced, Sharingan, Dark, Drunk, Drunken, Tech, Man, Boy, Ace, Fearless, rage, Champion, fighter, Mad, Cyber, Shadow, Villain, Noble, savage, Loaded, Wolf, Sniper, Phantom, Pro, Pirate, Shadow, Rich, Undead, Warrior, Snake, Speed"
+			"maleNameList2": "Mode,Skills,Class,Success,Life,Abilities,Jutsu,Knight,Master,Daily,Crasher,Child,Wonder,mindset,Leader,Quitting,Elite,Club,Monkey,Challenger,Vortex,Striker,Surge,Fury,Reaper,Guns,Zero,Action,Blaze,Gamer,King,Stealth,Hack,Community,Ghost,Walker,Bite,Racer",
 		},
 		{
 			"cateName": "SOCIAL HANDLES",
 			"femaleNameList": "River, Skye, Autumn, Dancer, Luna, Moon, Ocean, Rain, Lover, Breeze, Loved, wealthy, privileged, influential, Lady, prestigious, successful, Women, high, Highly, prosperous, respected, distinguished, Famous, popular, Coffee, Macha, Money, Wanted, Foxy, Purple, Kitty, Super, Cash, Clean, Viewer",
+			"femaleNameList2": "",
 			"maleNameList": "black, Golden, gold, Cash, Treasure, Cedar, Wood, Classy, elitist, Legend, Note, society, Worthy, Dancer, Rider, Writer, Painter, Worker, Reader, Sporty, Liquid, Photographer, Biker, Bass, Restricted, Vocal, Traveler, Gamer, Seller, Music, Fly, Build, Builder, Hacker, Coder, Handy"
+			"maleNameList2": "",
 		},
 		{
 			"cateName": "EMAIL ADDRESSES",
 			"femaleNameList": "Elegant, Sophisticated, New, Gamer, Cash, Cat, Gaming, Music, Gentle, Sweet, Lover, Majestic, Prestige, Debonair, Cool, Kitty, Web, Designer, Party, Geek, Fashion, Dancer, Agent, Artist, Bookworm, Money, Gems, Knowledgeable, Smart, Super, Cooker, Cyber, Class, Classy, Ceo, Writer",
+			"femaleNameList2": "",
 			"maleNameList": "Owner, bot, Ceo, Profit, Boss, Maker, Creator, Future, World, Fast, Racer, Sleeper, Geek, Money, Producer, Agent, American, African, Smart, Investor, Protection, Cyber, Coder, Cash, Lead, Artist, Actor, Athlete, Genius, Sportsman, Creative, Technique, Member, Day, Savant, King"
+			"maleNameList2": "",
 		},
 		{
 			"cateName": "PET NAMES",
 			"femaleNameList": "Lucy, Daisy, Sadie, Molly, Lola, Sunny, Sweety, Missy, Minnie, Rose, Riley, Lucy, Queen, Princess, Autumn, Chloe, Ruby, Zoe, Dixie, Mia, Stella, Mimi, Nala, Rosie, Penny, Coco, An, Bella, Lulu, Harley, Maddie, Zae, Sky, Honey, Jun, Mochi",
+			"femaleNameList2": "",
 			"maleNameList": "Storm, Cooper, Blitz, Fury, Berserker, Fang, Tucker, Fluffy, Biscuit, Rover, Bub, Teddy, Ted, sir, Jr, Zeus, Blaze, Toby, Mac, Charlie, Rusty, Leo, Jun, Jack, Rocky, Vader, King, Max, Bear, Simba, Yota, Milo, Major, Shadow, Bones, Lobo"
+			"maleNameList2": "",
 		},
 		{
 			"cateName": "FUNNY NAMES",
 			"femaleNameList": "Fluffy, Miss, Jumbo, Stinky, Troll, Crying, Lips, Trickster, Sissy, Hag, Weak, Ghetto, Poor, Potty, Shame, barf, Pinky, Cake, Fat, Fatty, gobbled, Pooper, Greedy, Nose, Greedy, whip, Foxy, Snort, Lolly, Fiddle, Piggy, Pill, wonky, gargle, Wack, Bum",
+			"femaleNameList2": "",
 			"maleNameList": "Mr., Gag, shenanigans, Small, Weak, Giggle, Trouble, Stick, Twig, Eater, Feeder, Bum, Loser, Failure, Gangsta, Mouth, Stinky, Bag, Munch, Biceps, Short, Tiny, Hater, Broken, Down, Monster, Cutter, Emo, Bones, Lips, Sniffer, Farts, Gazer, Gas, Junk, Trash"
+			"maleNameList2": "",
+		},
+		{
+			"cateName": "WISHING FATE",
+			"femaleNameList":"",
+			"femaleNameList2": "",
+			"maleNameList": "",
+			"maleNameList2": "",
 		}
 	]
 }
